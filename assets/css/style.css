@@ -113,7 +113,7 @@ body {
   
   position: relative;
   bottom: 380px;
-  left: 400px;
+  left: 295px;
   
   }
   .nav-item-mobile{
@@ -442,6 +442,13 @@ left: 100px;
 
 @media all and (max-width: 730px){
 
+  .img-layout img{
+
+    position: relative;
+    left: 263px;
+    bottom: 202px;
+    
+  }
   .img-layout {
 
     position: relative;
@@ -467,10 +474,10 @@ left: 100px;
 
 .text-curriculo{
 
-  position: relative;
-  top: 300px;
-  left: -35px;
-  width: 305px;
+      position: relative;
+    top: 300px;
+    left: -80px;
+    width: 305px;
 }
 
 .text-curriculo p{
@@ -487,24 +494,33 @@ left: 100px;
 
 #barra-cor{
 
-  background-color: #DEB4F0;
-  width: 100%;
-  height: 350px;
-  position: relative;
-  margin-bottom: 20px;
-  left: 0px;
-  bottom: 0px;
+      background-color: #DEB4F0;
+    width: 360px;
+    height: 350px;
+    position: relative;
+    margin-bottom: 20px;
+    bottom: 0px;
+    left: 0;
 }
+  
 
 #container-junte-se{
 
-  position: relative;
-  top: 61px;
-  width: 400px;
-  left: 5%;
+      position: relative;
+    top: 61px;
+    width: 350px;
+    left: 5%;
 }
 
+  #text-vocacional p{
 
+        position: relative;
+    left: 105px;
+    bottom: 204px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    width: 100%;
 }
 
 
