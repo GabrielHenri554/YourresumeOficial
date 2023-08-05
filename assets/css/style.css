@@ -208,7 +208,7 @@ left: 25%;
  
   }
 
-@media all and (max-width: 920px){
+@media screen and (max-width: 920px){
 
 .logo {
     width: 175px;
