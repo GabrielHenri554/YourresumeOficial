@@ -161,7 +161,7 @@ body {
   
   }
   
-  @media screen and (max-width: 1000px){
+  @media screen and (max-width: 920px){
   
 
     .nav-item{
@@ -170,10 +170,64 @@ body {
       position: relative;
       left: 110px;
       margin-left: -30px;
-
-
     }
+    .Div-Logo {
+   
+    margin: 7px;
+    }
+    .text-curriculo {
+    position: relative;
+    left: 270px;
+    width: 360px;
+    bottom: 0;
+
+}
+
+#barra-cor {
+    background-color: #DEB4F0;
+    width: 540px;
+    left: 80px;
+    height: 350px;
+    position: relative;
+    bottom: -100px;
+}
+
+.text-curriculo p {
+    
+    width:300px;
+    font-family: sans-serif;
+    font-weight: 600;
+   
+}
+
+#container-junte-se {
+
+left: 25%;
+
+}
+ 
   }
+
+@media all and (max-width: 920px){
+
+.logo {
+    width: 175px;
+}
+
+#imagem-maos {
+    width: 310px;
+    border-radius: 10%;
+    left: 225px;
+    bottom: -215px;
+}
+
+.img-layout img {
+    position: relative;
+    left: 267px;
+    bottom: 37px;
+}
+  
+}
 
 
   @media screen and (max-width: 730px){
