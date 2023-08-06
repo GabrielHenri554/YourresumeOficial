@@ -61,6 +61,12 @@
         font-family: sans-serif;
         }
 
+ @media (max-width:500px){
+
+        .nav-list{
+            padding-right: 70px;
+            width: 120px;
+        }
         .form-elements{
 
             width: 600px;
@@ -146,10 +152,20 @@
 
             .form-elements{
 
-                width: 260px;
-                margin: 20px;
+             width: 220px;
+             margin: 20px;
+             position: relative;
+             right: 10px;
                
             }
+
+            .div-titulo-form{
+                
+                 width: 220px;
+                 margin: 20px;
+                 position: relative;
+                 right: 10px;
+        }
             .w50{
                 width: 100%;
                 padding: 0;
@@ -160,7 +176,8 @@
                 height: 0;
                 padding: 23px;
                 margin-bottom: 15px;
-                
+                position: relative;
+                right: 25px;
             }
 
 
