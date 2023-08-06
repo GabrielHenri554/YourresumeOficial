@@ -30,6 +30,7 @@ body {
     justify-content: center;
     position: relative;
     bottom: 235px;
+    left: 405px; 
     
     
     }
@@ -62,7 +63,7 @@ body {
     .nav-link{
     
     font-size: 18px;
-    font-weight: 500; 
+    font-weight: bold; 
     text-decoration: none;
     color: white;
     font-family: sans-serif;
