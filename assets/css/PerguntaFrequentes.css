@@ -211,7 +211,14 @@ body {
         font-family: sans-serif;
         text-align: justify;
       }
-      
+
+ .text-container h4{
+     font-family: sans-serif;
+ }
+
+
+
+
 @media (max-width:500px){
 
 .text-container{
