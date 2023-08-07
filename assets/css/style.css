@@ -306,10 +306,11 @@ width: 100%;
 height: 600px;
 background-color: Lavender;
 
-
-
 }
 
+#img-gabe{
+  width: 400px;
+}
 
 .img-layout img {
 
@@ -317,6 +318,7 @@ background-color: Lavender;
   position: relative;
   left: 313px;
   bottom: 202px;
+  width: 100%;
 
 }
 
