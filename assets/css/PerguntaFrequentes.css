@@ -29,7 +29,8 @@ body {
     display: flex;
     justify-content: center;
     position: relative;
-    bottom: 435px;
+    bottom: 230px;
+    left: 300px; 
     
     
     
@@ -204,16 +205,19 @@ body {
       .text-container h2{
 
         font-family: sans-serif;
+        margin-top: 85px;
       }
       .text-container p{
 
 
         font-family: sans-serif;
         text-align: justify;
+        line-height: 1.5;
       }
 
  .text-container h4{
      font-family: sans-serif;
+      text-align: left;
  }
 
 
