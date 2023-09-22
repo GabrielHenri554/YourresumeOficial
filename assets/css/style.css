@@ -364,11 +364,11 @@ background-color: Lavender;
 #barra-cor {
 
   background-color: #B5ABD9;
-  width: 700px;
-  left: 275px;
-  height: 350px;
-  position: relative;
-  bottom: -183px;
+    width: 700px;
+    left: 275px;
+    height: 350px;
+    position: relative;
+    bottom: -100px;
 
 }
 
@@ -400,10 +400,13 @@ background-color: Lavender;
 #boneco-gabe {
 
   position: relative;
-  left: 202px;
-  width: 169px;
-  bottom: 196px;
+    left: 202px;
+    width: 250px;
+    bottom: 200px;
 }
+
+
+
 
 
 
