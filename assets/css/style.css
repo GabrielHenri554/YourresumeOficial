@@ -607,6 +607,10 @@ height: 326px;
   right: 260px;
 }
 
+#footer-element h4{
+  color: white;
+}
+
 .div-logo-rodape{
 
 position: relative;
